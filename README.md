@@ -1,4 +1,5 @@
 # getting-started
-just the test of github
-how to started with the coding / 
-coming up!!!
+git hub test 1 
+
+#project init number 2 
+calci tested and ✔👀
